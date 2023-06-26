@@ -11,7 +11,8 @@ PROJECTS :  Hosted links  :  <hr>
 6 : CSS-02 CSS Color Markers : https://niraj401patil.github.io/FrontEndAssignment/CSS-02/              <br>
 7 : CSS-03 CSS Nutrition fact card : https://niraj401patil.github.io/FrontEndAssignment/CSS-03/        <br>
 8 : CSS-04 CSS Shoe page : https://niraj401patil.github.io/FrontEndAssignment/CSS-04/                  <br>
-9 : CSS-05 Simple website of Food world on pizza : https://niraj401patil.github.io/FrontEndAssignment/CSS-05/      <br><hr><hr>
+9 : CSS-05 Simple website of Food world on pizza : https://niraj401patil.github.io/FrontEndAssignment/CSS-05/      <br>
+10: CSS-06 Css Flex Box :  https://niraj401patil.github.io/FrontEndAssignment/CSS-06/                  <br>   <hr><hr>
 
 
 
