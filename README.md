@@ -3,8 +3,8 @@ FS-02-Module-5 Assignment
 
 PROJECTS :  Hosted links
 
-1 : Basic HTML Assignment : https://niraj401patil.github.io/FrontEndAssignment/BasicHTML_Assignment/
-2 : Tribute Page for Virat Kohali : https://niraj401patil.github.io/FrontEndAssignment/Tribute_page/
+1 : Basic HTML Assignment : https://niraj401patil.github.io/FrontEndAssignment/BasicHTML_Assignment/   <br>
+2 : Tribute Page for Virat Kohali : https://niraj401patil.github.io/FrontEndAssignment/Tribute_page/   <br>       
 3 : HTML Form Assignment : https://niraj401patil.github.io/FrontEndAssignment/HTML_Form_Assignment/
 4 : Cat Application : https://niraj401patil.github.io/FrontEndAssignment/Cat_Application/
 5 : CSS-01 Camper Cafe Card : https://niraj401patil.github.io/FrontEndAssignment/CSS-01/
